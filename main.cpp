@@ -2,9 +2,15 @@
 
 using namespace std;
 
-int main (){
+int suma(int a,int b){
+    return a+b;
+}
 
-cout<<"hola"<<endl;
+int main (){
+int a,b;
+a=4;
+b=5;
+cout<<"la suma de"<<a<<"y"<<b<<"es:"<<suma(a,b)<<endl;
 
 return 0;
 }
