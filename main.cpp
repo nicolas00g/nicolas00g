@@ -2,9 +2,11 @@
 
 using namespace std;
 
-int main (){
+//cambio1
 
-cout<<"hola"<<endl;
+int main (void){
+
+cout<<"hola que  tal "<<endl;
 
 return 0;
 }
